@@ -53,7 +53,7 @@ function App() {
           />
         </button>
       </div>
-      <div className='movies-container w-9/12 my-0 mx-auto grid grid-cols-3 gap-8 max-lg:w-10/12 max-md:grid-cols-2'>
+      <div className='movies-container w-9/12 my-0 mx-auto grid grid-cols-3 gap-8 max-lg:w-10/12 max-md:grid-cols-2 max-sm:grid-cols-1'>
       {
         movies?.length > 0 ? 
         (
