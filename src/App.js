@@ -5,7 +5,7 @@ import searchBtn from './images/magnifiying-glass.png'
 
 //3706d816
 
-const api_url = 'http://www.omdbapi.com?apikey=3706d816'
+const api_url = 'https://www.omdbapi.com?apikey=3706d816'
 
 
 function App() {
